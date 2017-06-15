@@ -220,6 +220,8 @@ typedef ALuint64SOFT ALuint64;
 #define U64(x) ((ALuint64)(x##ul))
 #elif SIZEOF_LONG_LONG == 8
 #define U64(x) ((ALuint64)(x##ull))
+#else
+#define U64(x) ((ALuint64)(x##ull))
 #endif
 #endif
 
