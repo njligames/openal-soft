@@ -9,3 +9,7 @@ openal-soft.kdev4
 _build/
 .DS_Store
 
+Debug-iphoneos/
+Debug-iphonesimulator/
+Release-iphoneos/
+Release-iphonesimulator/
