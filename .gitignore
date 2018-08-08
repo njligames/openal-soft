@@ -13,3 +13,5 @@ Debug-iphoneos/
 Debug-iphonesimulator/
 Release-iphoneos/
 Release-iphonesimulator/
+
+BUILD/
